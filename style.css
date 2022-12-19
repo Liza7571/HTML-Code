@@ -1,0 +1,19 @@
+.h{
+    width: 500px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px 10px 10px 10px;
+}   
+.social{
+    width: 300px;
+    height: 200px;
+    background-image: url(06.png);
+    background-position: 0 -59
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    transition: 1s;
+    }
+.social: hover{
+        background-position: 0 -138px;
+}
+
